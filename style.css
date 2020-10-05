@@ -1,0 +1,68 @@
+*{
+	margin: 0px;
+	padding:0px;
+
+}
+
+.header{
+	text-align: center;
+	text-shadow: 0px 0px 2px red;
+
+}
+.box{
+	width: 100%;
+}
+.box img{
+	width: 400px;
+	height: 400px;
+	text-align: center;
+	display: block;
+}
+.form{
+	text-align:center;
+}
+
+
+/* thsi is -----about Page----------*/
+.img img{
+	width: 300px;
+	height: 300px;
+	border: 5px solid black;
+	margin: 15px;
+
+
+
+}
+.img{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	background-color: #FFF0F5;
+}
+.h1 h1{
+	text-align:center;
+	border:2px solid black; 
+}
+
+}
+/* thsi is -------work page---------- */
+.mid h1 b{
+	text-align:center; 
+}
+.section{
+	width: 50%;
+	height: 300px;
+	background: green;
+	display: block;
+	margin: auto;
+	margin-top: 200px;
+	overflow: hidden;
+}
+.red{
+	width:170px;
+	height: 170px;
+	background: red;
+	border-radius: 50%;
+	margin-top: 70px;
+	margin-left: 290px;
+}
